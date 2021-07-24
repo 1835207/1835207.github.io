@@ -1,5 +1,11 @@
 @charset "utf-8";
 /* ―――index1のスタイル――― */
+body {
+    /* ページを表示するフォントを指定するプロパティ */
+    font-family: "Meiryo", "メイリオ", "Hiragino Kaku Gothic ProN";
+    
+    background-image: url(../img/background-color-red.png)
+  }
 
 /* 表題を中央に */
 #top {
@@ -91,11 +97,3 @@ div > div > .place {
     text-decoration-thickness: 5px;
 }
 
-body {
-    /* ページを表示するフォントを指定するプロパティ */
-    font-family: "Meiryo", "メイリオ", "Hiragino Kaku Gothic ProN";
-     
-    /* 背景画像が読み込まれる前に表示される背景のカラー */
-    background-image: url(../img/background-color-red.png)
-  }
-  
