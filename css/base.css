@@ -96,7 +96,7 @@ body {
     font-family: "Meiryo", "メイリオ", "Hiragino Kaku Gothic ProN";
 
     /* 背景画像を指定するプロパティ */
-    background-image: url(../../hw0724/img/background-color-red.png);
+    background-image: url(/img/background-color-red.png);
      
     /* 画像を常に天地左右の中央に配置 */
     background-position: center center;
